@@ -1,5 +1,5 @@
-###Personal Information
+Personal Information
 
-###Education
+Education
 
-###Skills and revelent experience
+Skills and revelent experience
